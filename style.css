@@ -398,3 +398,17 @@ form.sign-in-form {
     left: 50%;
   }
 }
+.forgot-password {
+  display: block;
+  margin: 10px 0;
+  text-align: center;
+  color: #5995fd;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+.forgot-password:hover {
+  color: #4d84e2;
+  text-decoration: underline;
+}
